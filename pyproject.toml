@@ -8,12 +8,12 @@ version = "1.0.0"
 description = "Check a list of URLs, or URLs embedded in a Markdown file, and report status codes or errors."
 readme = "README.md"
 requires-python = ">=3.8"
-license = { text = "All Rights Reserved" }
+license = { text = "MIT" }
 authors = [{ name = "sidcore-dev" }]
 keywords = ["url", "link-checker", "cli", "devtools"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: Other/Proprietary License",
+    "License :: OSI Approved :: MIT License",
     "Environment :: Console",
     "Topic :: Software Development :: Build Tools",
 ]
